@@ -1,4 +1,4 @@
-# donation_website
+# Donation_website
 This is a payment intergration website made under the Graduate Rotational Internship Program (GRIP) from SPARKS FOUNDATION.
 This is the third task from the task list(#task3)
 There is a simple donate button on the homa page which lands on a payment page where user can select the amount to be paid and the payment type, e.g.
